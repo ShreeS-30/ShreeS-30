@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-%23E34F26.svg?style=for-the-badge&logo=frontend&logoColor=white" alt="Web Developer">
   <img src="https://img.shields.io/badge/Android%20Developer-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer">
-  <img src="https://img.shields.io/badge/Robotics%20Enthusiast-%230072D6.svg?style=for-the-badge&logo=robot&logoColor=white" alt="Something coming soon!...">
+  
 </p>
 
 ---
